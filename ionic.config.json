@@ -1,0 +1,7 @@
+{
+  "name": "moots",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
