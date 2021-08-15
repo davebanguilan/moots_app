@@ -1,7 +1,7 @@
 import { Environment } from 'src/app/_shared/models';
 
 export const environment: Environment = {
-  production: true,
+  production: false,
   firebase: {
     apiKey: '<your-key>',
     authDomain: '<your-project-authdomain>',

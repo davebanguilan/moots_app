@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "dev-moots-app": {
+      "hosting": {
+        "app": [
+          "dev-moots-app"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "dev-moots-app": "dev-moots-app"
+  }
+}
